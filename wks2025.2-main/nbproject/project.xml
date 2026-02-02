@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.java.j2seproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+            <name>wks2025.2-main</name>
+            <source-roots>
+                <root id="src.dir" name="AvaliacaoI20252/src"/>
+                <root id="src2.dir" name="AvaliacaoII20252/src"/>
+                <root id="src3.dir" name="AvaliacaoII20253/src"/>
+                <root id="src4.dir" name="AvaliacaoIII20252/src"/>
+                <root id="src5.dir" name="AvaliacaoMiddleware/src"/>
+                <root id="src6.dir" name="AvaliacaoMiddleware2/src"/>
+                <root id="src7.dir" name="Criacional_Prototype/src"/>
+                <root id="src8.dir" name="Criacional_Singleton/src"/>
+                <root id="src9.dir" name="Criacional_Singleton2/src"/>
+                <root id="src10.dir" name="wks20252/Criacional_AbstractFactory/src"/>
+                <root id="src11.dir" name="wks20252/Criacional_Builder_2/src"/>
+                <root id="src12.dir" name="wks20252/Criacional_Builder/src"/>
+                <root id="src13.dir" name="wks20252/Criacional_FactoryMethod/src"/>
+                <root id="src14.dir" name="wks20252/Criacional_GenericsFactoryMethod/src"/>
+                <root id="src15.dir" name="wks20252/Demeter/src"/>
+                <root id="src16.dir" name="wks20252/SOLID/src"/>
+                <root id="src17.dir" name="wks20252/TDA-FF/src"/>
+            </source-roots>
+            <test-roots/>
+        </data>
+    </configuration>
+</project>
