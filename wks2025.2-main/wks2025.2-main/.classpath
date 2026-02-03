@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="AvaliacaoI20252/src"/>
+	<classpathentry kind="src" path="AvaliacaoII20252/src"/>
+	<classpathentry kind="src" path="AvaliacaoII20253/src"/>
+	<classpathentry kind="src" path="AvaliacaoIII20252/src"/>
+	<classpathentry kind="src" path="AvaliacaoMiddleware/src"/>
+	<classpathentry kind="src" path="AvaliacaoMiddleware2/src"/>
+	<classpathentry kind="src" path="Criacional_Prototype/src"/>
+	<classpathentry kind="src" path="Criacional_Singleton/src"/>
+	<classpathentry kind="src" path="Criacional_Singleton2/src"/>
+	<classpathentry kind="src" path="wks20252/Criacional_AbstractFactory/src"/>
+	<classpathentry kind="src" path="wks20252/Criacional_Builder_2/src"/>
+	<classpathentry kind="src" path="wks20252/Criacional_Builder/src"/>
+	<classpathentry kind="src" path="wks20252/Criacional_FactoryMethod/src"/>
+	<classpathentry kind="src" path="wks20252/Criacional_GenericsFactoryMethod/src"/>
+	<classpathentry kind="src" path="wks20252/Demeter/src"/>
+	<classpathentry kind="src" path="wks20252/SOLID/src"/>
+	<classpathentry kind="src" path="wks20252/TDA-FF/src"/>
+	<classpathentry kind="output" path="AvaliacaoII20252/bin"/>
+</classpath>
